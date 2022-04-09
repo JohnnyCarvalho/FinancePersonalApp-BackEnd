@@ -1,0 +1,24 @@
+{
+  "name": "financepersonalapp-backend",
+  "version": "1.0.0",
+  "description": "Back End new application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnnyCarvalho/FinancePersonalApp-BackEnd.git"
+  },
+  "author": "@JohnnyCarvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnnyCarvalho/FinancePersonalApp-BackEnd/issues"
+  },
+  "homepage": "https://github.com/JohnnyCarvalho/FinancePersonalApp-BackEnd#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.18.0"
+  }
+}
